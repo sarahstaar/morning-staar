@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Morning Staar</title>
+    <link>https://sarahstaar.github.io/morning-staar/</link>
+    <atom:link href="https://sarahstaar.github.io/morning-staar/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-gb</language>
+    <description>Your daily briefing: AI, space, Tesla, technology and world news, plus the latest from Moonshots and Tesla Time News, the local weather and a thought for the day.</description>
+    <itunes:author>The Morning Staar</itunes:author>
+    <itunes:summary>Your daily five-minute briefing: AI, space, Tesla, technology and world news, the local weather and a thought for the day.</itunes:summary>
+    <itunes:image href="https://sarahstaar.github.io/morning-staar/cover.jpg"/>
+    <image><url>https://sarahstaar.github.io/morning-staar/cover.jpg</url><title>The Morning Staar</title><link>https://sarahstaar.github.io/morning-staar/</link></image>
+    <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Thursday 22 October: Tesla Q3 results, SpaceX&#x27;s record quarter, and the PHP security alert</title>
+      <description>Tesla&#x27;s third-quarter results and robotaxi progress, reported Tesla-SpaceX merger talks, OpenAI&#x27;s monitoring incidents, SpaceX&#x27;s Q3 and the Starship double-catch plan, Nvidia&#x27;s modular data centres, critical PHP flaws, world news, Tesla Time News 691, the Bourgvallées weather and a thought from Maya Angelou. Read by Daniel.</description>
+      <itunes:summary>Tesla&#x27;s third-quarter results and robotaxi progress, reported Tesla-SpaceX merger talks, OpenAI&#x27;s monitoring incidents, SpaceX&#x27;s Q3 and the Starship double-catch plan, Nvidia&#x27;s modular data centres, critical PHP flaws, world news, Tesla Time News 691, the Bourgvallées weather and a thought from Maya Angelou. Read by Daniel.</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">morning-staar-2026-10-22</guid>
+      <enclosure url="https://github.com/sarahstaar/morning-staar/releases/download/2026-10-22/morning-staar-2026-10-22.mp3" length="5080916" type="audio/mpeg"/>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
