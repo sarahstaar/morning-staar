@@ -50,7 +50,7 @@ feed = f"""<?xml version="1.0" encoding="UTF-8"?>
     <image><url>{base}/cover.jpg</url><title>The Morning Staar</title><link>{base}/</link></image>
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:block>Yes</itunes:block>
+    <itunes:block>yes</itunes:block>
 {chr(10).join(items)}
   </channel>
 </rss>

@@ -12,7 +12,7 @@
     <image><url>https://sarahstaar.github.io/morning-staar/cover.jpg</url><title>The Morning Staar</title><link>https://sarahstaar.github.io/morning-staar/</link></image>
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:block>Yes</itunes:block>
+    <itunes:block>yes</itunes:block>
     <item>
       <title>Thursday 22 October: Tesla Q3 results, SpaceX&#x27;s record quarter, and the PHP security alert</title>
       <description>Tesla&#x27;s third-quarter results and robotaxi progress, reported Tesla-SpaceX merger talks, OpenAI&#x27;s monitoring incidents, SpaceX&#x27;s Q3 and the Starship double-catch plan, Nvidia&#x27;s modular data centres, critical PHP flaws, world news, Tesla Time News 691, the Bourgvallées weather and a thought from Maya Angelou. Read by Daniel.</description>
