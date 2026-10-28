@@ -1,56 +1,65 @@
 [
- {
-  "date": "2026-10-27",
-  "title": "Tuesday 27 October: Anthropic's IPO filing, Tesla driver assist reaches Latvia, and Budget eve",
-  "summary": "Anthropic opens its books ahead of a Nasdaq listing, Tesla Assisted Driving wins a tenth European approval and a Barclays upgrade, NASA ends the Swift mission, the UK prepares for Wednesday's Budget, a blustery Manche Tuesday and a thought from Louis Pasteur. Read by Alice.",
-  "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-27.mp3",
-  "bytes": 2283485,
-  "seconds": 285,
-  "voice": "Alice"
- },
- {
-  "date": "2026-10-26",
-  "title": "Monday 26 October: Serbia's students win, Cybercab's rear camera, and the UK's AI biosecurity lab",
-  "summary": "Vučić concedes in Serbia, Burnham on EU free movement, Cybercab's new rear camera view and Tesla's Q3 margins, a £100 million UK AI biosecurity lab, China's latest satellite launch, a big-tech earnings week, a breezy Manche Monday and a thought from Carl Sagan. Read by Alice.",
-  "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-26.mp3",
-  "bytes": 2376478,
-  "seconds": 297,
-  "voice": "Alice"
- },
- {
-  "date": "2026-10-25",
-  "title": "Sunday 25 October: Robotaxi miles double, France on alert, and Apple's 'Pro and tell'",
-  "summary": "Bank of America on Tesla's Robotaxi inflection point, AI safety tests and the Replit switch to OpenAI, NASA's first look at Starship's Moon cabin, Apple's event next week, protests in France and Merz on Russia, Moonshots 305, a stormy Manche Sunday and a thought from Albert Einstein. Read by Alice.",
-  "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-25.mp3",
-  "bytes": 2523600,
-  "seconds": 315,
-  "voice": "Alice"
- },
- {
-  "date": "2026-10-24",
-  "title": "Saturday 24 October: Robotaxi at the Grand Prix, OpenAI goes offline, and the UK's three-day stockpile",
-  "summary": "Tesla's Austin Robotaxi expansion and merger scrutiny, Friday's TSLA close and Bitcoin, OpenAI's offline training, NASA's Artemis dash, the tech sell-off, the UK's emergency-supplies advice, a wet and windy Manche and a thought from Isaac Newton. Read by Alice.",
-  "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-24.mp3",
-  "bytes": 2354122,
-  "seconds": 294,
-  "voice": "Alice"
- },
- {
-  "date": "2026-10-23",
-  "title": "Friday 23 October: Cybercab heads to Dallas, Taiwan's first chip strike, and Storm Austen",
-  "summary": "Tesla's Cybercab expansion and later unsupervised FSD, Claude Duet, Nvidia's supplier deals, Micron's Taiwan strike, Iran and Saudi tensions, Moonshots 304 with Chamath, an orange wind alert for the Manche and a thought from Richard Feynman. Read by Alice.",
-  "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-23.mp3",
-  "bytes": 2154542,
-  "seconds": 269,
-  "voice": "Alice"
- },
- {
-  "date": "2026-10-22",
-  "title": "Thursday 22 October: Tesla Q3 results, SpaceX's record quarter, and the PHP security alert",
-  "summary": "Tesla's third-quarter results and robotaxi progress, reported Tesla-SpaceX merger talks, OpenAI's monitoring incidents, SpaceX's Q3 and the Starship double-catch plan, Nvidia's modular data centres, critical PHP flaws, world news, Tesla Time News 691, the Bourgvallées weather and a thought from Maya Angelou. Read by Daniel.",
-  "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-22.mp3",
-  "bytes": 2540560,
-  "seconds": 318,
-  "voice": "Daniel"
- }
+  {
+    "date": "2026-10-28",
+    "title": "Wednesday 28 October: Budget day, Cybercab outpaces deployment, and Europe's Galileo boost",
+    "summary": "John Healey's first Budget, Tesla building Cybercabs faster than it can deploy them, GPT-6.1 Terra in GitHub Copilot, sixteen new-generation Galileo satellites, a calm dry day in the Manche and a thought from Rosalind Franklin. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-28.mp3",
+    "bytes": 2121529,
+    "seconds": 265,
+    "voice": "Alice"
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Tuesday 27 October: Anthropic's IPO filing, Tesla driver assist reaches Latvia, and Budget eve",
+    "summary": "Anthropic opens its books ahead of a Nasdaq listing, Tesla Assisted Driving wins a tenth European approval and a Barclays upgrade, NASA ends the Swift mission, the UK prepares for Wednesday's Budget, a blustery Manche Tuesday and a thought from Louis Pasteur. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-27.mp3",
+    "bytes": 2283485,
+    "seconds": 285,
+    "voice": "Alice"
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Monday 26 October: Serbia's students win, Cybercab's rear camera, and the UK's AI biosecurity lab",
+    "summary": "Vučić concedes in Serbia, Burnham on EU free movement, Cybercab's new rear camera view and Tesla's Q3 margins, a £100 million UK AI biosecurity lab, China's latest satellite launch, a big-tech earnings week, a breezy Manche Monday and a thought from Carl Sagan. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-26.mp3",
+    "bytes": 2376478,
+    "seconds": 297,
+    "voice": "Alice"
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Sunday 25 October: Robotaxi miles double, France on alert, and Apple's 'Pro and tell'",
+    "summary": "Bank of America on Tesla's Robotaxi inflection point, AI safety tests and the Replit switch to OpenAI, NASA's first look at Starship's Moon cabin, Apple's event next week, protests in France and Merz on Russia, Moonshots 305, a stormy Manche Sunday and a thought from Albert Einstein. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-25.mp3",
+    "bytes": 2523600,
+    "seconds": 315,
+    "voice": "Alice"
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Saturday 24 October: Robotaxi at the Grand Prix, OpenAI goes offline, and the UK's three-day stockpile",
+    "summary": "Tesla's Austin Robotaxi expansion and merger scrutiny, Friday's TSLA close and Bitcoin, OpenAI's offline training, NASA's Artemis dash, the tech sell-off, the UK's emergency-supplies advice, a wet and windy Manche and a thought from Isaac Newton. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-24.mp3",
+    "bytes": 2354122,
+    "seconds": 294,
+    "voice": "Alice"
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Friday 23 October: Cybercab heads to Dallas, Taiwan's first chip strike, and Storm Austen",
+    "summary": "Tesla's Cybercab expansion and later unsupervised FSD, Claude Duet, Nvidia's supplier deals, Micron's Taiwan strike, Iran and Saudi tensions, Moonshots 304 with Chamath, an orange wind alert for the Manche and a thought from Richard Feynman. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-23.mp3",
+    "bytes": 2154542,
+    "seconds": 269,
+    "voice": "Alice"
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Thursday 22 October: Tesla Q3 results, SpaceX's record quarter, and the PHP security alert",
+    "summary": "Tesla's third-quarter results and robotaxi progress, reported Tesla-SpaceX merger talks, OpenAI's monitoring incidents, SpaceX's Q3 and the Starship double-catch plan, Nvidia's modular data centres, critical PHP flaws, world news, Tesla Time News 691, the Bourgvallées weather and a thought from Maya Angelou. Read by Daniel.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-22.mp3",
+    "bytes": 2540560,
+    "seconds": 318,
+    "voice": "Daniel"
+  }
 ]
