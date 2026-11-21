@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-21",
+    "title": "Saturday 21 November: Optimus factory, a bruising week for Nvidia and the UK–EU deal",
+    "summary": "Giga Presses spotted at Tesla's Optimus factory, Nvidia's worst week since 2008, Anthropic's record IPO, and the UK and EU seal their post-Brexit reset. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-11-21.mp3",
+    "bytes": 2425804,
+    "seconds": 303,
+    "voice": "Alice"
+  },
+  {
     "date": "2026-11-20",
     "title": "Friday 20 November: Cybercab reaches Dallas, Anthropic starts trading and the UK–EU summit",
     "summary": "Tesla's Cybercab overtakes the Model Y in its Texas fleet and opens public rides in Dallas, Anthropic's shares begin trading on the Nasdaq, and Andy Burnham heads to Brussels for the UK–EU summit. Read by Alice.",
@@ -259,14 +268,5 @@
     "bytes": 2154542,
     "seconds": 269,
     "voice": "Alice"
-  },
-  {
-    "date": "2026-10-22",
-    "title": "Thursday 22 October: Tesla Q3 results, SpaceX's record quarter, and the PHP security alert",
-    "summary": "Tesla's third-quarter results and robotaxi progress, reported Tesla-SpaceX merger talks, OpenAI's monitoring incidents, SpaceX's Q3 and the Starship double-catch plan, Nvidia's modular data centres, critical PHP flaws, world news, Tesla Time News 691, the Bourgvallées weather and a thought from Maya Angelou. Read by Daniel.",
-    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-22.mp3",
-    "bytes": 2540560,
-    "seconds": 318,
-    "voice": "Daniel"
   }
 ]
