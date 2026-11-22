@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-22",
+    "title": "Sunday 22 November: Tesla FSD v15, Anthropic's IPO closes, Gemini on the Mac",
+    "summary": "Tesla starts rolling out Full Self-Driving v15 and unveils Powercore, Anthropic's record listing closes at about $93.5 billion, and Moonshots talks SpaceX with Steve Jurvetson. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-11-22.mp3",
+    "bytes": 2301010,
+    "seconds": 288,
+    "voice": "Alice"
+  },
+  {
     "date": "2026-11-21",
     "title": "Saturday 21 November: Optimus factory, a bruising week for Nvidia and the UK–EU deal",
     "summary": "Giga Presses spotted at Tesla's Optimus factory, Nvidia's worst week since 2008, Anthropic's record IPO, and the UK and EU seal their post-Brexit reset. Read by Alice.",
@@ -258,15 +267,6 @@
     "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-24.mp3",
     "bytes": 2354122,
     "seconds": 294,
-    "voice": "Alice"
-  },
-  {
-    "date": "2026-10-23",
-    "title": "Friday 23 October: Cybercab heads to Dallas, Taiwan's first chip strike, and Storm Austen",
-    "summary": "Tesla's Cybercab expansion and later unsupervised FSD, Claude Duet, Nvidia's supplier deals, Micron's Taiwan strike, Iran and Saudi tensions, Moonshots 304 with Chamath, an orange wind alert for the Manche and a thought from Richard Feynman. Read by Alice.",
-    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-23.mp3",
-    "bytes": 2154542,
-    "seconds": 269,
     "voice": "Alice"
   }
 ]
