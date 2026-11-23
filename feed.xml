@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <item>
+      <title>Monday 23 November: Tech stocks hit correction, AI outage warnings, COP31 collapses</title>
+      <description>US stocks slide into correction on AI fears, Microsoft warns of more outages as AI speeds up bug-hunting, Tesla Assisted Driving reaches Italy and the COP31 talks end without a deal. Read by Alice.</description>
+      <itunes:summary>US stocks slide into correction on AI fears, Microsoft warns of more outages as AI speeds up bug-hunting, Tesla Assisted Driving reaches Italy and the COP31 talks end without a deal. Read by Alice.</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">morning-staar-2026-11-23</guid>
+      <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-11-23.mp3" length="2211805" type="audio/mpeg"/>
+      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Sunday 22 November: Tesla FSD v15, Anthropic&#x27;s IPO closes, Gemini on the Mac</title>
       <description>Tesla starts rolling out Full Self-Driving v15 and unveils Powercore, Anthropic&#x27;s record listing closes at about $93.5 billion, and Moonshots talks SpaceX with Steve Jurvetson. Read by Alice.</description>
       <itunes:summary>Tesla starts rolling out Full Self-Driving v15 and unveils Powercore, Anthropic&#x27;s record listing closes at about $93.5 billion, and Moonshots talks SpaceX with Steve Jurvetson. Read by Alice.</itunes:summary>
@@ -329,17 +340,6 @@
       <guid isPermaLink="false">morning-staar-2026-10-25</guid>
       <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-10-25.mp3" length="2523600" type="audio/mpeg"/>
       <itunes:duration>00:05:15</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Saturday 24 October: Robotaxi at the Grand Prix, OpenAI goes offline, and the UK&#x27;s three-day stockpile</title>
-      <description>Tesla&#x27;s Austin Robotaxi expansion and merger scrutiny, Friday&#x27;s TSLA close and Bitcoin, OpenAI&#x27;s offline training, NASA&#x27;s Artemis dash, the tech sell-off, the UK&#x27;s emergency-supplies advice, a wet and windy Manche and a thought from Isaac Newton. Read by Alice.</description>
-      <itunes:summary>Tesla&#x27;s Austin Robotaxi expansion and merger scrutiny, Friday&#x27;s TSLA close and Bitcoin, OpenAI&#x27;s offline training, NASA&#x27;s Artemis dash, the tech sell-off, the UK&#x27;s emergency-supplies advice, a wet and windy Manche and a thought from Isaac Newton. Read by Alice.</itunes:summary>
-      <pubDate>Sat, 24 Oct 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">morning-staar-2026-10-24</guid>
-      <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-10-24.mp3" length="2354122" type="audio/mpeg"/>
-      <itunes:duration>00:04:54</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
