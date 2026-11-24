@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <item>
+      <title>Tuesday 24 November: Jensen Huang back at Nvidia, CrowdStrike buys Zscaler, EU&#x27;s new Russia sanctions</title>
+      <description>Nvidia reinstates Jensen Huang as CEO, CrowdStrike agrees a $44 billion deal for Zscaler, Musk talks Starlink in every Tesla and the EU unveils its 22nd sanctions package against Russia. Read by Alice.</description>
+      <itunes:summary>Nvidia reinstates Jensen Huang as CEO, CrowdStrike agrees a $44 billion deal for Zscaler, Musk talks Starlink in every Tesla and the EU unveils its 22nd sanctions package against Russia. Read by Alice.</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">morning-staar-2026-11-24</guid>
+      <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-11-24.mp3" length="2361854" type="audio/mpeg"/>
+      <itunes:duration>00:04:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Monday 23 November: Tech stocks hit correction, AI outage warnings, COP31 collapses</title>
       <description>US stocks slide into correction on AI fears, Microsoft warns of more outages as AI speeds up bug-hunting, Tesla Assisted Driving reaches Italy and the COP31 talks end without a deal. Read by Alice.</description>
       <itunes:summary>US stocks slide into correction on AI fears, Microsoft warns of more outages as AI speeds up bug-hunting, Tesla Assisted Driving reaches Italy and the COP31 talks end without a deal. Read by Alice.</itunes:summary>
@@ -329,17 +340,6 @@
       <guid isPermaLink="false">morning-staar-2026-10-26</guid>
       <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-10-26.mp3" length="2376478" type="audio/mpeg"/>
       <itunes:duration>00:04:57</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sunday 25 October: Robotaxi miles double, France on alert, and Apple&#x27;s &#x27;Pro and tell&#x27;</title>
-      <description>Bank of America on Tesla&#x27;s Robotaxi inflection point, AI safety tests and the Replit switch to OpenAI, NASA&#x27;s first look at Starship&#x27;s Moon cabin, Apple&#x27;s event next week, protests in France and Merz on Russia, Moonshots 305, a stormy Manche Sunday and a thought from Albert Einstein. Read by Alice.</description>
-      <itunes:summary>Bank of America on Tesla&#x27;s Robotaxi inflection point, AI safety tests and the Replit switch to OpenAI, NASA&#x27;s first look at Starship&#x27;s Moon cabin, Apple&#x27;s event next week, protests in France and Merz on Russia, Moonshots 305, a stormy Manche Sunday and a thought from Albert Einstein. Read by Alice.</itunes:summary>
-      <pubDate>Sun, 25 Oct 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">morning-staar-2026-10-25</guid>
-      <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-10-25.mp3" length="2523600" type="audio/mpeg"/>
-      <itunes:duration>00:05:15</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
