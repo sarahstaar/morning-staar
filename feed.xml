@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <item>
+      <title>Wednesday 25 November: Tesla–SpaceX merger race, AI safety warnings, Spain votes Sunday</title>
+      <description>Tesla and SpaceX race to sign a merger by year-end, OpenAI and Anthropic staff raise alarms over frontier-model safety, and Spain heads to the polls on Sunday. Read by Alice.</description>
+      <itunes:summary>Tesla and SpaceX race to sign a merger by year-end, OpenAI and Anthropic staff raise alarms over frontier-model safety, and Spain heads to the polls on Sunday. Read by Alice.</itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">morning-staar-2026-11-25</guid>
+      <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-11-25.mp3" length="2576689" type="audio/mpeg"/>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Tuesday 24 November: Jensen Huang back at Nvidia, CrowdStrike buys Zscaler, EU&#x27;s new Russia sanctions</title>
       <description>Nvidia reinstates Jensen Huang as CEO, CrowdStrike agrees a $44 billion deal for Zscaler, Musk talks Starlink in every Tesla and the EU unveils its 22nd sanctions package against Russia. Read by Alice.</description>
       <itunes:summary>Nvidia reinstates Jensen Huang as CEO, CrowdStrike agrees a $44 billion deal for Zscaler, Musk talks Starlink in every Tesla and the EU unveils its 22nd sanctions package against Russia. Read by Alice.</itunes:summary>
@@ -329,17 +340,6 @@
       <guid isPermaLink="false">morning-staar-2026-10-27</guid>
       <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-10-27.mp3" length="2283485" type="audio/mpeg"/>
       <itunes:duration>00:04:45</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Monday 26 October: Serbia&#x27;s students win, Cybercab&#x27;s rear camera, and the UK&#x27;s AI biosecurity lab</title>
-      <description>Vučić concedes in Serbia, Burnham on EU free movement, Cybercab&#x27;s new rear camera view and Tesla&#x27;s Q3 margins, a £100 million UK AI biosecurity lab, China&#x27;s latest satellite launch, a big-tech earnings week, a breezy Manche Monday and a thought from Carl Sagan. Read by Alice.</description>
-      <itunes:summary>Vučić concedes in Serbia, Burnham on EU free movement, Cybercab&#x27;s new rear camera view and Tesla&#x27;s Q3 margins, a £100 million UK AI biosecurity lab, China&#x27;s latest satellite launch, a big-tech earnings week, a breezy Manche Monday and a thought from Carl Sagan. Read by Alice.</itunes:summary>
-      <pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">morning-staar-2026-10-26</guid>
-      <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-10-26.mp3" length="2376478" type="audio/mpeg"/>
-      <itunes:duration>00:04:57</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

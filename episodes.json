@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-25",
+    "title": "Wednesday 25 November: Tesla–SpaceX merger race, AI safety warnings, Spain votes Sunday",
+    "summary": "Tesla and SpaceX race to sign a merger by year-end, OpenAI and Anthropic staff raise alarms over frontier-model safety, and Spain heads to the polls on Sunday. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-11-25.mp3",
+    "bytes": 2576689,
+    "seconds": 322,
+    "voice": "Alice"
+  },
+  {
     "date": "2026-11-24",
     "title": "Tuesday 24 November: Jensen Huang back at Nvidia, CrowdStrike buys Zscaler, EU's new Russia sanctions",
     "summary": "Nvidia reinstates Jensen Huang as CEO, CrowdStrike agrees a $44 billion deal for Zscaler, Musk talks Starlink in every Tesla and the EU unveils its 22nd sanctions package against Russia. Read by Alice.",
@@ -258,15 +267,6 @@
     "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-27.mp3",
     "bytes": 2283485,
     "seconds": 285,
-    "voice": "Alice"
-  },
-  {
-    "date": "2026-10-26",
-    "title": "Monday 26 October: Serbia's students win, Cybercab's rear camera, and the UK's AI biosecurity lab",
-    "summary": "Vučić concedes in Serbia, Burnham on EU free movement, Cybercab's new rear camera view and Tesla's Q3 margins, a £100 million UK AI biosecurity lab, China's latest satellite launch, a big-tech earnings week, a breezy Manche Monday and a thought from Carl Sagan. Read by Alice.",
-    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-26.mp3",
-    "bytes": 2376478,
-    "seconds": 297,
     "voice": "Alice"
   }
 ]
