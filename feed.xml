@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>yes</itunes:block>
     <item>
+      <title>Friday 27 November: Texas Cybercab roster passes 1,000, Anthropic rewrites its API in Rust, EU budget summit ends without a deal</title>
+      <description>Tesla&#x27;s Texas robotaxi roster tops 1,100 Cybercabs, Anthropic&#x27;s Claude agents move its API to Rust, SpaceX gets FCC approval for Starmind, and EU leaders fail to agree a budget. Plus the European Supercharger round-up. Read by Alice.</description>
+      <itunes:summary>Tesla&#x27;s Texas robotaxi roster tops 1,100 Cybercabs, Anthropic&#x27;s Claude agents move its API to Rust, SpaceX gets FCC approval for Starmind, and EU leaders fail to agree a budget. Plus the European Supercharger round-up. Read by Alice.</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="false">morning-staar-2026-11-27</guid>
+      <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-11-27.mp3" length="2438756" type="audio/mpeg"/>
+      <itunes:duration>00:05:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Thursday 26 November: Tesla Dallas Robotaxi expansion, GPT-6 designs proteins, EU summit on energy</title>
       <description>Tesla widens its Dallas Robotaxi zone and cuts fares, OpenAI&#x27;s GPT-6 designs working proteins, SpaceX gets approval for orbital data centres, and EU leaders meet on energy as Estonia shuts Russian border crossings. Read by Alice.</description>
       <itunes:summary>Tesla widens its Dallas Robotaxi zone and cuts fares, OpenAI&#x27;s GPT-6 designs working proteins, SpaceX gets approval for orbital data centres, and EU leaders meet on energy as Estonia shuts Russian border crossings. Read by Alice.</itunes:summary>
@@ -328,17 +339,6 @@
       <pubDate>Thu, 29 Oct 2026 04:00:00 +0000</pubDate>
       <guid isPermaLink="false">morning-staar-2026-10-29</guid>
       <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-10-29.mp3" length="2123826" type="audio/mpeg"/>
-      <itunes:duration>00:04:25</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wednesday 28 October: Budget day, Cybercab outpaces deployment, and Europe&#x27;s Galileo boost</title>
-      <description>John Healey&#x27;s first Budget, Tesla building Cybercabs faster than it can deploy them, GPT-6.1 Terra in GitHub Copilot, sixteen new-generation Galileo satellites, a calm dry day in the Manche and a thought from Rosalind Franklin. Read by Alice.</description>
-      <itunes:summary>John Healey&#x27;s first Budget, Tesla building Cybercabs faster than it can deploy them, GPT-6.1 Terra in GitHub Copilot, sixteen new-generation Galileo satellites, a calm dry day in the Manche and a thought from Rosalind Franklin. Read by Alice.</itunes:summary>
-      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">morning-staar-2026-10-28</guid>
-      <enclosure url="https://sarahstaar.github.io/morning-staar/episodes/2026-10-28.mp3" length="2121529" type="audio/mpeg"/>
       <itunes:duration>00:04:25</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
