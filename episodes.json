@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-28",
+    "title": "Saturday 28 November: Nvidia chips traced to Shanghai, UK publishes Brussels deal texts, Tesla battery preconditioning update",
+    "summary": "Bloomberg traces Nvidia Blackwell chips to Shanghai, OpenAI's Jalapeño chip is benchmarked, the UK publishes its new EU package, and Tesla adds manual battery preconditioning. Plus a new Moonshots episode. Read by Alice.",
+    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-11-28.mp3",
+    "bytes": 2332570,
+    "seconds": 292,
+    "voice": "Alice"
+  },
+  {
     "date": "2026-11-27",
     "title": "Friday 27 November: Texas Cybercab roster passes 1,000, Anthropic rewrites its API in Rust, EU budget summit ends without a deal",
     "summary": "Tesla's Texas robotaxi roster tops 1,100 Cybercabs, Anthropic's Claude agents move its API to Rust, SpaceX gets FCC approval for Starmind, and EU leaders fail to agree a budget. Plus the European Supercharger round-up. Read by Alice.",
@@ -258,15 +267,6 @@
     "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-30.mp3",
     "bytes": 2162483,
     "seconds": 270,
-    "voice": "Alice"
-  },
-  {
-    "date": "2026-10-29",
-    "title": "Thursday 29 October: Spain rail disaster, Healey's Budget, and Cybercabs take the lead",
-    "summary": "The deadly high-speed train collision in Spain, the key measures in John Healey's first Budget, Cybercabs outnumbering Model Ys in Tesla's Texas fleet, Alphabet and Microsoft results, a dry day in the Manche and a thought from Michael Faraday. Read by Alice.",
-    "audio_url": "https://sarahstaar.github.io/morning-staar/episodes/2026-10-29.mp3",
-    "bytes": 2123826,
-    "seconds": 265,
     "voice": "Alice"
   }
 ]
